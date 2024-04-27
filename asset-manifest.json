@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/myproject/static/css/main.0d3ba325.css",
+    "main.js": "/myproject/static/js/main.32d8551c.js",
+    "static/media/hinh2.png": "/myproject/static/media/hinh2.776435ee913c5941da3d.png",
+    "static/media/hinh1.png": "/myproject/static/media/hinh1.363411f48e8cba800997.png",
+    "static/media/logo.png": "/myproject/static/media/logo.04bef06e77ef6946a2d8.png",
+    "static/media/Vietcombank.png": "/myproject/static/media/Vietcombank.7b31c878087329cedf6b.png",
+    "static/media/Vietinbank.png": "/myproject/static/media/Vietinbank.f3eb0e0585190237c390.png",
+    "static/media/Agribank.png": "/myproject/static/media/Agribank.1c69bd7d7f666f5f7e9e.png",
+    "static/media/ACB.png": "/myproject/static/media/ACB.1a176c3e5acb788a9e54.png",
+    "static/media/BIDV.png": "/myproject/static/media/BIDV.b5e3d5c76a36c019f24f.png",
+    "static/media/slick.svg": "/myproject/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/myproject/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/myproject/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/myproject/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/myproject/index.html",
+    "main.0d3ba325.css.map": "/myproject/static/css/main.0d3ba325.css.map",
+    "main.32d8551c.js.map": "/myproject/static/js/main.32d8551c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d3ba325.css",
+    "static/js/main.32d8551c.js"
+  ]
+}
