@@ -1,0 +1,6 @@
+﻿mã màu logo:#2078B5:honolulu Blue + #44B6BD:verdigris + #3298B9:blue green
+mã màu mới:#12D9DB:màu nền
+	#0846CC:màu logo 1
+	#2A6896:màu logo 2
+mã mới:#FF9800:màu cam
+		#FF6B03:màu cam đậm
